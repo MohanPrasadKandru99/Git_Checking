@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "john",
+      "mobile": "8956231245",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Guest",
+      "mobile": "8956231245"
+    },
+    {
+      "name": "john as",
+      "mobile": "8956231245",
+      "id": 4
+    },
+    {
+      "name": "lol",
+      "mobile": "231656",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
