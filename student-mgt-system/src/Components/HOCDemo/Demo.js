@@ -1,10 +1,8 @@
-import React from 'react'
-import HOC from './HOC'
+import React from "react";
+import HOC from "./HOC";
 
-function Demo () {
-  return (
-    <div>Demo User Logged in</div>
-  )
+function Demo() {
+  return <div>Demo User Logged in</div>;
 }
 
-export default HOC(Demo) 
+export default HOC(Demo);
